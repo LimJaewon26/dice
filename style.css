@@ -1,0 +1,71 @@
+.container{
+    text-align: center;
+    margin: 20px;
+}
+
+
+h1{
+    font-size: 50px;
+    margin-bottom: 40px;
+}
+
+img{
+    display: block;
+    margin: auto;
+    width: 100px;
+    height: 100px;
+}
+
+button{
+    margin-top: 30px;
+    width: 50px;
+    height: 30px;
+}
+
+#dice1{
+    display: block;
+    margin: auto;
+    content:url(images/1.png);
+    width: 100px;
+    height: 100px;
+}
+
+#dice2{
+    display: block;
+    margin: auto;
+    content:url(images/2.png);
+    width: 100px;
+    height: 100px;
+}
+
+#dice3{
+    display: block;
+    margin: auto;
+    content:url(images/3.png);
+    width: 100px;
+    height: 100px;
+}
+
+#dice4{
+    display: block;
+    margin: auto;
+    content:url(images/4.png);
+    width: 100px;
+    height: 100px;
+}
+
+#dice5{
+    display: block;
+    margin: auto;
+    content:url(images/5.png);
+    width: 100px;
+    height: 100px;
+}
+
+#dice6{
+    display: block;
+    margin: auto;
+    content:url(images/6.png);
+    width: 100px;
+    height: 100px;
+}
